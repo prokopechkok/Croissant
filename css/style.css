@@ -8,12 +8,11 @@ body {
   display: block;
   margin: 30px auto;
 }
-.mail-link{
+.mail-link {
   color: rgb(231, 44, 231);
 }
 footer a {
   margin: 0 15px;
   color: rgb(231, 44, 231);
   text-decoration: none;
-  
 }
