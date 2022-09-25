@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: aquamarine;
+}
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.mail-link{
+  color: rgb(231, 44, 231);
+}
+footer a {
+  margin: 0 15px;
+  color: rgb(231, 44, 231);
+  text-decoration: none;
+  
+}
